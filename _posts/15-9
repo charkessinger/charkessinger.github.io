@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Post con todos los estilos de contenido en markdown"
+author:
+- Charlotte Bishop Kessinger
+meta: "SPA410"
+date: 2021-09-15
+---
+
+# Mi titulo 1
+#Subtitulo 
+
+Aqui empiezo a escribir y **esto lo quiero en negrita**
+
+'''
+<html>
+Esto es codigo 
+</html>
+'''
