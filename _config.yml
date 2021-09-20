@@ -3,8 +3,7 @@ author:
   name: Charlotte Bishop Kessinger
   email: cbk38@miami.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  hello my name is charlotte. 
-
+Website created by Charlotte Kessinger
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
