@@ -21,7 +21,7 @@ Dublin core ofrece información de catalogación ampliada y documentación de í
 ## ¿Quién lo hizo?
 El esquema se originó en Dublín, Ohio en 1995 durante un taller de metadatos. 
 
-# Los 15 elementos de código de Dublin Core
+# Los quince elementos de código de Dublin Core
 
     <?xml version="1.0"?>
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -111,6 +111,60 @@ El tipo de recurso, como página de web, novela, poema, documento de trabajo, in
     </dc:format>
     
 El formato significa la representación de datos del recurso, como texto / html, archivo, aplicación, o imagen JPG.
+
+**El identificador** es como...
+
+    <dc:identifier>
+    https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19
+    </dc:identifier>
+    
+Significa una cadena o número que se utiliza para identificar de forma exclusiva el recurso.
+
+El código del **fuente** se representa como...
+
+    <dc:source>
+    University of Miami
+    </dc:source>
+
+El trabajo, ya sea impreso o electrónico, desde el que se entrega el recurso.
+
+La etiqueta del **idioma** es...
+
+    <dc:language>
+    SPA
+    </dc:language>
+    
+El (los) idioma(s) del contenido intelectual del recurso.
+
+**La cobretura** se corresponde a...
+
+    <dc:coverage>
+    1898-1936 Spain
+    </dc:coverage>
+    
+Significa contexto y caracteristicas espacial y temporal del recurso.
+
+**Los derechos** es el elemento quince y aparace como...
+
+    <dc:rights>
+    Domino público
+    </dc:rights>
+
+Es importante a incluir información sobre los derechos sobre el recurso.
+
+# Resumen
+
+La capacidad de buscar y encontrar información se ve reforzada por vocabularios controlados vinculados a los elementos de metadatos. Además, como los metadatos se combinan con índices de materias controlados, permite una búsqueda y una gestión de documentos más precisas.
+
+
+Como los metadatos se almacenan dentro del área <HEAD> de una página web, no son visibles para los navegadores web. Sin embargo, colocados en páginas web, los metadatos permitirán encontrar información con mayor facilidad y precisión. Además, se puede utilizar para el archivo de registros. Los metadatos también ayudan a la precisión de la búsqueda de web. Al final, las directrices permiten desarrollar estándares relacionados con la catalogación, recuperación o archivo de documentos electrónicos utilizando Dublin Core Elements.
+
+
+
+
+
+
+
 
 
 
