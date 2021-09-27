@@ -23,6 +23,8 @@ El esquema se originó en Dublín, Ohio en 1995 durante un taller de metadatos.
 
 # Los quince elementos de código de Dublin Core
 
+La etiqueta de apertura del código corresponde a...
+
     <?xml version="1.0"?>
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     ...
