@@ -154,9 +154,6 @@ Es importante a incluir información sobre los derechos sobre el recurso.
 
 # Resumen
 
-La capacidad de buscar y encontrar información se ve reforzada por vocabularios controlados vinculados a los elementos de metadatos. Además, como los metadatos se combinan con índices de materias controlados, permite una búsqueda y una gestión de documentos más precisas.
-
-
 Como los metadatos se almacenan dentro del área <HEAD> de una página web, no son visibles para los navegadores web. Sin embargo, colocados en páginas web, los metadatos permitirán encontrar información con mayor facilidad y precisión. Además, se puede utilizar para el archivo de registros. Los metadatos también ayudan a la precisión de la búsqueda de web. Al final, las directrices permiten desarrollar estándares relacionados con la catalogación, recuperación o archivo de documentos electrónicos utilizando Dublin Core Elements.
 
 
