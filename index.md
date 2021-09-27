@@ -7,6 +7,4 @@
 #
 layout: home
 ---
-Bienvenida a mi página web. 
-
-Este sitio web que hemos creado el código de la plantilla Minima que puede descargarse en GitHub: [minima](https://github.com/jekyll/minima)
+Bienvenida a mi página web.
