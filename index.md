@@ -7,4 +7,6 @@
 #
 layout: home
 ---
-Bienvenida a mi página web.
+# !Bienvenida a mi página web!
+
+## Aquí subiré proyectos, publicaciones de blog, ensayos y reacciones sobre las humanidades digitales. Síganme mientras aprendo más sobre el mundo digital de las humanidades.
