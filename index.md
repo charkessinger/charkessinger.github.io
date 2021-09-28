@@ -8,6 +8,6 @@
 layout: home
 ---
 
-# **¡Bienvenida a mi primera página web!**
+**¡Bienvenida a mi primera página web!**
 
 *Aquí subiré proyectos, publicaciones de blog, ensayos y redacciónes sobre las humanidades digitales para mi clase de SPA 410: Digital Humanities. Síganme mientras aprendo más sobre el mundo digital de las humanidades.*
