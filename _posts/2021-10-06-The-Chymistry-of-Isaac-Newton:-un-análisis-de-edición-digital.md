@@ -21,8 +21,8 @@ Este proyecto integra una edición de los manuscritos alquímicos de Newton, en 
 
   El sitio está dirigido a usuarios que desean consultar una edición académica en línea de los manuscritos alquímicos de Newton integrados con una nueva investigación sobre la química de Newton. Los textos, codificados en TEI / XML, se pueden ver en sus versiones diplomáticas o normalizadas y los textos en latín y otros textos que no están en inglés se acompañan de traducciones al inglés. El proyecto se construye de cuadernos de laboratorio, índices de sustancias y operaciones alquímicas, transcripciones de Newton de otras fuentes e incluso poesía.
   
-  <img src="/assets/images/normal.png" alt="Newton's manuscrpit Normalized" width="300" height="400">
-  <img src="/assets/images/diplomatic.png" alt="Newton's manuscrpit Diplomatic" width="300" height="400">
+  <img src="/assets/images/normal.png" alt="Newton's manuscrpit Normalized" width="300" height="350">
+  <img src="/assets/images/diplomatic.png" alt="Newton's manuscrpit Diplomatic" width="300" height="350">
   
 El sitio web es bastante fácil de usar. Hay una leyenda  con información que explica algunos símbolos y es fácil encontrar lo que se está buscando. Existen algunas  ventajas de este  sitio web como la organización de los materiales y el diseño que hacen que sea fácil de leer. Por el contrario, algunas desventajas del sitio web incluyen que no es accesible para ciegos (no tienen texto alternativo) y el tamaño de fuente es muy pequeño. 
 
