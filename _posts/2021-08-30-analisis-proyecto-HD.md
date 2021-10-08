@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Análisis de un proyecto de Mapping Paintings
+title: "Análisis de un proyecto de Mapping Paintings"
 date: 2021-08-30
-author: Charlotte
----Evaluación de proyecto Mapping Paintings
+author:
+- Charlotte Kessinger
+---
 
-Mapping paintings
-http://www.mappingpaintings.org/
+## Mapping paintings:
+URL: http://www.mappingpaintings.org/
 
 **Contexto del proyecto y objetivos**
 
