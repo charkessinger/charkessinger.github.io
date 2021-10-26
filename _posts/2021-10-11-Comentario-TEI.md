@@ -16,20 +16,20 @@ El iniciativa de codificación de texto (TEI) desarrolla y mantiene un estándar
 
 # Directrices para la codificación electrónica de texto
 
-1. **La declaración**
+ **La declaración**
 
         <?xml version="1.0" encoding="UTF-8"?>
         
-Indica que se trata de un documento XML, con el tipo de codificación de caracteres: por defecto es siempre UTF-8
+Indica que se trata de un documento XML, con el tipo de codificación de caracteres: por defecto es siempre UTF-8. Además, nos dice que el documento contiene la versión 1.0 de estándar XML.
 
-2. **El esquema**
+ **Asocaiación al esquema .rng**
 
         <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng" 
         schematypens="http://relaxng.org/ns/structure/1.0"?>
         
 Este línea indica a qué modelo concreto se sujeta este documento XML. En el campo de TEI el esquema más utilizado es RelaxNG que tiene como extensión .rng. 
 
-3. **El elemento raíz**
+3. **El elemento raíz y espacio de nombre**
 
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
 
@@ -37,39 +37,47 @@ El elemento raíz es el encargado de contener el espacio de nombre. En otras pal
   
 4. **El encabezado**
 
-       <teiHeader>
-        <fileDesc>
-        <titleStmt>
-        <title>
-        <!-- title of the resource -->
-        </title>
-        </titleStmt>
-        <publicationStmt>
-        <p>
-        <!-- Information about distribution of the resource -->
-        </p>
-        </publicationStmt>
-        <sourceDesc>
-        <p>
-        <!-- Information about source from which the resource derives -->
-        </p>
-        </sourceDesc>
-        </fileDesc>
-        </teiHeader>
-        
-Es una de las partes más importantes, pues contiene toda la información de metadatos, normalmente no destinados a la publicación pero imprescinndibles para integrar el documento en un conjunto. 
+Uno de lo más importante aspectos de un documento TEI-XML es el encabezado. Aparace en el codígo con la etiqueta *tei header* Pues contiene toda la información de metadatos, normalmente no destinados a la publicación pero imprescinndibles para integrar el documento en un conjunto.
 
-5. **El cuerpo del documento**
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ejercicio para el curso de SPA 410</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>University of Miami</p>        
+         </publicationStmt>
+         <sourceDesc>
+            <p>Archivo creado digitalmente para nuestro curso SPA410.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+    
+Los metadatos se identifican con los etiquetas de de *fileDesc*, *titleStmt*, *publicationStmt*, y *sourceDesc*
+    *fileDesc es el elemento obligatorio que incluye  incluye información sobre el fichero XML-TEI así como detalles sobre la fuente primaria.
+    *titleStmt inclyue información sobre el nombre del archivo. Aquí, se puede crear una etiqueta de título. En este caso, yo he anadido un título para el ejercicio.
+    *publicationStmt nos da contexto sobre la publicacion digital de fichero del documento. Para nuestra clase, pusé la Universidad de Miami.
 
-        <text>
-            <body>
-              <p>El texto </p>
-             <figure>
-              <!--Este elemento <figure> puede eliminarse pues es solo el logo de TEI -->
-                <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
-              </figure>
-           </body>
-          </text>
-  
-        </TEI>
+5. **El texto**
+
+La otra sección muy importante en un documento XML-TEI es el texto. El texto contiene un subelemento conocido como *body*. En el body se pone el texto actual del documento y es necessario para la fucnción del documento XML-TEI.
+
+     <text>
+          <body>
+             <p>Un párrafo explicando el trasfondo de TEI. TEI es un marco de trabajo formado en xml y está definido por pautas generales sobre cómo marcar textos digitales para diferentes disciplinas.</p>
+          </body>
+      </text>
+
+EL ejemplo arriba demonstra una etiqueta de párrafo dentro del elemento del cuerpo.
+
+# Resumen
+
+En conclusión, la formación de un documento XML-TEI está creado por un metódo de reglas y etiquetas estríctas. TEI es independiente de cualquier plataforma o programa, se utiliza para estructurar textos de manera rápida y organizada, y se puede adaptarse para muchos campos de estudio y proyectos y por eso es muy útil en nuestros estudios de las humanidades digitales.
+
+
+
+
+
+
+
                            
