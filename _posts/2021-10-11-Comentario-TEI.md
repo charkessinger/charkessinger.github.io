@@ -10,6 +10,8 @@ author:
 
 El iniciativa de codificación de texto (TEI) desarrolla y mantiene un estándar para la representación de textos en forma digital. En esencia, TEI representa directrices que especifican métodos de codificación para textos legibles por máquina, específicamente en los estudios de humanidades, ciencias sociales y lingüística. Desde su creación en 1994, bibliotecas, museos, editoriales y académicos individuales han utilizado las directrices para presentar textos para la investigación, la enseñanza y la preservación en línea.
 
+<img src="/assets/images/download.png" alt="TEI" width="400" height="400">
+
 # Información critical para la creaciòn de un documento de XML-TEI
 
 1. Debe indicar explícitamente o por referencia una especificación de esquema TEI contra la cual se puede validar el documento.
@@ -75,7 +77,7 @@ EL ejemplo arribo demonstra una etiqueta de párrafo dentro del elemento del cue
 
 En conclusión, la formación de un documento XML-TEI está creado por un metódo de reglas y etiquetas estríctas. TEI es independiente de cualquier plataforma o programa, se utiliza para estructurar textos de manera rápida y organizada, y se puede adaptarse para muchos campos de estudio y proyectos y por eso es muy útil en nuestros estudios de las humanidades digitales.
 
-
+<img src="/assets/images/unnamed.png" alt="la technologia" width="400" height="200">
 
 
 
