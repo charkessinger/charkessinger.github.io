@@ -51,12 +51,13 @@ Uno de lo más importante aspectos de un documento TEI-XML es el encabezado. Apa
             <p>Archivo creado digitalmente para nuestro curso SPA410.</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
+    </teiHeader>
     
-Los metadatos se identifican con los etiquetas de de *fileDesc*, *titleStmt*, *publicationStmt*, y *sourceDesc*
-    *fileDesc es el elemento obligatorio que incluye  incluye información sobre el fichero XML-TEI así como detalles sobre la fuente primaria.
-    *titleStmt inclyue información sobre el nombre del archivo. Aquí, se puede crear una etiqueta de título. En este caso, yo he anadido un título para el ejercicio.
-    *publicationStmt nos da contexto sobre la publicacion digital de fichero del documento. Para nuestra clase, pusé la Universidad de Miami.
+Los metadatos se identifican con los etiquetas de de *fileDesc*, *titleStmt*, *publicationStmt*, y *sourceDesc*.
+
+*fileDesc* es el elemento obligatorio que incluye  incluye información sobre el fichero XML-TEI así como detalles sobre la fuente primaria.
+*titleStmt* inclyue información sobre el nombre del archivo. Aquí, se puede crear una etiqueta de título. En este caso, yo he anadido un título para el             ejercicio.
+*publicationStmt* nos da contexto sobre la publicacion digital de fichero del documento. Para nuestra clase, pusé la Universidad de Miami.
 
 5. **El texto**
 
@@ -68,7 +69,7 @@ La otra sección muy importante en un documento XML-TEI es el texto. El texto co
           </body>
       </text>
 
-EL ejemplo arriba demonstra una etiqueta de párrafo dentro del elemento del cuerpo.
+EL ejemplo arribo demonstra una etiqueta de párrafo dentro del elemento del cuerpo.
 
 # Resumen
 
