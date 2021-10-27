@@ -17,8 +17,8 @@
             <head>
                 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
                 <title>Tarea 6: Codificación XML-TEI y Transformacion </title>
-                <link rel="stylesheet" href="https://dh-miami.github.io/assets/css/style.css"/>
-                <link rel="stylesheet" href="https://dh-miami.github.io/Leonor/estilo.css"/>
+                <link rel="stylesheet" href="https://charkessinger.io/assets/css/style.css"/>
+                <link rel="stylesheet" href="https://charkessinger.github.io/Leonor/estilo.css"/>
             </head>
             <body>
                 <header class="site-header">
@@ -76,7 +76,7 @@
                                         >https://archive.org/details/n16365laespaamoderna14madruoft/page/n125/mode/2up</a>
                                 </span>
                                 <br/>
-                                <p>Consulta el <a href="https://dh-miami.github.io/ejercicios/mapa.html">mapa con el recorrido de Leonor</a></p>
+                                <p>Consulta el <a href="https://charkessinger.github.io/ejercicios/mapa.html">mapa con el recorrido de Leonor</a></p>
                             </div>
 
                             <xsl:apply-templates/>
