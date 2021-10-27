@@ -14,7 +14,7 @@ El iniciativa de codificación de texto (TEI) desarrolla y mantiene un estándar
 
 # Información critical para la creaciòn de un documento de XML-TEI
 
-1. Debe indicar explícitamente o por referencia una especificación de esquema TEI contra la cual se puede validar el documento.
+Debe indicar explícitamente o por referencia una especificación de esquema TEI contra la cual se puede validar el documento.
 
 # Directrices para la codificación electrónica de texto
 
@@ -31,13 +31,13 @@ Indica que se trata de un documento XML, con el tipo de codificación de caracte
         
 Este línea indica a qué modelo concreto se sujeta este documento XML. En el campo de TEI el esquema más utilizado es RelaxNG que tiene como extensión .rng. 
 
-3. **El elemento raíz y espacio de nombre**
+**El elemento raíz y espacio de nombre**
 
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
 
 El elemento raíz es el encargado de contener el espacio de nombre. En otras palabras, significa a qué tipo de modelo pertenecer las etiquetas utilizadas.
   
-4. **El encabezado**
+**El encabezado**
 
 Uno de lo más importante aspectos de un documento TEI-XML es el encabezado. Aparace en el codígo con la etiqueta *tei header* Pues contiene toda la información de metadatos, normalmente no destinados a la publicación pero imprescinndibles para integrar el documento en un conjunto.
 
@@ -61,7 +61,7 @@ Los metadatos se identifican con los etiquetas de de *fileDesc*, *titleStmt*, *p
 *titleStmt* inclyue información sobre el nombre del archivo. Aquí, se puede crear una etiqueta de título. En este caso, yo he anadido un título para el             ejercicio.
 *publicationStmt* nos da contexto sobre la publicacion digital de fichero del documento. Para nuestra clase, pusé la Universidad de Miami.
 
-5. **El texto**
+**El texto**
 
 La otra sección muy importante en un documento XML-TEI es el texto. El texto contiene un subelemento conocido como *body*. En el body se pone el texto actual del documento y es necessario para la fucnción del documento XML-TEI.
 
@@ -71,7 +71,7 @@ La otra sección muy importante en un documento XML-TEI es el texto. El texto co
           </body>
       </text>
 
-EL ejemplo arribo demonstra una etiqueta de párrafo dentro del elemento del cuerpo.
+El ejemplo arribo demonstra una etiqueta de párrafo dentro del elemento del cuerpo.
 
 # Resumen
 
