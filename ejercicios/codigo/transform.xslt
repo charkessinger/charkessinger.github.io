@@ -289,7 +289,7 @@
                   en
                   este mundo, porque ella me diese casa, é ella me dió casa y casas por su misericordia,
                   mejores que yo las merecía, y comienza la oración: 
-                  <div id="poema"><span class="name">Madre Santa María</span>,<br></br>De vos gran dolor había;<br></br>Vuestro fijo bien criado<br></br>Vístelo atormentado:<br></br>Con tu gran tribulación<br></br>Amortecíósevos el corazón:<br></br>Después de tu tribulación<br></br>Puso vos consolación:<br></br>Ponedle vos á mí, Señora,<br></br>Que sabéis mi dolor.<br></br></div> En este tiempo, pluguiese que con el ayuda de mi señora mi tía y de labor de mis
+                  <div xml:id="poema"><span class="name">Madre Santa María</span>,<br></br>De vos gran dolor había;<br></br>Vuestro fijo bien criado<br></br>Vístelo atormentado:<br></br>Con tu gran tribulación<br></br>Amortecíósevos el corazón:<br></br>Después de tu tribulación<br></br>Puso vos consolación:<br></br>Ponedle vos á mí, Señora,<br></br>Que sabéis mi dolor.<br></br></div> En este tiempo, pluguiese que con el ayuda de mi señora mi tía y de labor de mis
                   manos, hice en aquel corral dos palacios y una huerta é otras dos ó tres casas para
                   servicio.</p>
                
