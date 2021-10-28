@@ -3,7 +3,7 @@ author:
   name: Charlotte Bishop Kessinger
   email: cbk38@miami.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-Un sitio web para la clase de las humaidades digitales en la Universidad de Miami. Sirve como un portfolio del trabajo de la clase.
+  Un sitio web para la clase de las humaidades digitales en la Universidad de Miami. Sirve como un portfolio del trabajo de la clase.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
