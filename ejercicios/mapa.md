@@ -3,8 +3,8 @@ layout: page
 title: Mapa sobre el recorrido de Leonor
 ---
 
-Leonor López de Córdoba nacida en 1362 en Cataluyad, España publicó la que se considera la primera autobiografía en castellano: *Memorias*. Leonor escribió este artículo después de su caída en desgracia en la corte y enfatiza su testimonio a la religión y se disculpa por la desgracia de las acciones de su padre en relación con su propio sufrimiento y tragedia.
+Leonor López de Córdoba, nacida en 1362 en Cataluyad, escribió la que se considera la primera autobiografía en lengua castellana: *Memorias*. Leonor escribió este texto después de su caída en desgracia en la corte y sirve, de alguna manera, como justificación y disculpa por las acciones de su padre. A lo largo del texto, Leonor enfatiza su devoción religiosa y su propio sufrimiento y tragedia.
 
-He creado un mapa para mostrar de forma visual e interactiva los lugares, ciudades y países que Leonor menciona en *Memorias*. Para cada ubicación, el usuario puede hacer clic en el nombre y el lugar para acceder y una breve descripción y foto. Este mapa da vida a la autobiografía de Leonor y nos permite comprender más sobre la sociedad española durante el siglo XV en relación a la vida de Leonor.
+A ráiz del ejercicio de codificación del texto de Leonor que hemos llevado a cabo en clase, he creado el siguiente mapa para mostrar de forma visual e interactiva los lugares, las ciudades y los países que Leonor menciona en *Memorias*. Cada ubicación es clicable y puede verse el nombre del lugar, una breve descripción y una imagen. Este mapa da vida a la autobiografía de Leonor y nos permite comprender más a fondo la geografía en la que la sociedad española durante el siglo XV y la vida de Leonor transcurren.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=149Ko9K1iobqw6ghaKf-r3ZRHTbixJu4y" width="640" height="480"></iframe>
