@@ -18,7 +18,7 @@ Dublin core ofrece información de catalogación ampliada y documentación de í
 ### ¿Quién lo hizo?
 El esquema se originó en Dublín (Ohio) en 1995 durante un taller de metadatos. 
 
-### Los **quince elementos de Dublin Core
+### Los quince elementos de Dublin Core
 
 La etiqueta de apertura del código corresponde a un simple prólogo XML y un elemento raíz llamado `metada`:
 
