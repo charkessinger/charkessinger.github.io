@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Chymistry of Isaac Newton: un análisis de edición digital"
+title: "Presentación 2: análisis de la edición digital The Chymistry of Isaac Newton"
 author:
 - Charlotte Kessinger
 date: 2021-10-06
