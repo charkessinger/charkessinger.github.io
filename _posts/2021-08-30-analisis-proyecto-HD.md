@@ -6,6 +6,8 @@ author:
 - Charlotte Kessinger
 ---
 
+<span style="color:red;">Esto debe redactarse como una entrada del blog con un texto formal, coherente y cohesionado.</span>
+
 ## Mapping paintings:
 URL: http://www.mappingpaintings.org/
 
