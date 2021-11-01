@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análisis de un proyecto de Mapping Paintings"
+title: "Presentación 1: Análisis del proyecto Mapping Paintings"
 date: 2021-08-30
 author:
 - Charlotte Kessinger
