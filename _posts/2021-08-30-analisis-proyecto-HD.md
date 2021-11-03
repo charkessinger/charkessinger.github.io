@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Análisis de un proyecto de Mapping Paintings"
+title: "Presentación 1: Análisis del proyecto Mapping Paintings"
 date: 2021-08-30
 author:
 - Charlotte Kessinger
 ---
+
+<span style="color:red;">Esto debe redactarse como una entrada del blog con un texto formal, coherente y cohesionado.</span>
 
 ## Mapping paintings:
 URL: http://www.mappingpaintings.org/
