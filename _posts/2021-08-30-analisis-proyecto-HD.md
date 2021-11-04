@@ -14,7 +14,7 @@ URL: http://www.mappingpaintings.org/
   
   <img src="/assets/images/Informationallegory.png" alt="Alegoria de matrimonio" width="500" height="170">
   
-Por ejemplo, aunque es posible que nunca se conozca la historia de algunas pinturas, como la pintura arriba "Alegoría de matrimonio" de Tiziano, la historia es conocida y fascinante. Según Mapping Paintings, la pintura ha sido propiedad de 11 personas en los últimos 487 años. Ha estado en Italia, Inglaterra y Francia. Ahora en 2021, está en las paredes del Louvre.
+Por ejemplo, aunque es posible que nunca se conozca la historia de algunas pinturas, como la pintura arriba "Alegoría de matrimonio" de Tiziano, la historia es conocida y fascinante. Según Mapping Paintings, la pintura ha sido propiedad de 11 personas en los últimos 481 años. Ha estado en Italia, Inglaterra y Francia. Ahora en 2021, está en las paredes del Louvre.
 
 <img src="/assets/images/Itenpoints.png" alt="itinerary points" width="400" height="250">
 
