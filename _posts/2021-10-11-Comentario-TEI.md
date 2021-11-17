@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Tarea 4. La Text Encoding Initiative: un ejemplo básico comentado"
+title: "Tarea 4: La Text Encoding Initiative: un ejemplo básico comentado"
 date: 2021-10-11
 author:
-- Charlotte Kessinger 
+- Charlotte Bishop Kessinger 
 ---
 
 <img src="/assets/images/download.png" alt="TEI" width="400" height="400">
