@@ -3,7 +3,7 @@ layout: post
 title: "Presentación 1: Análisis del proyecto Mapping Paintings"
 date: 2021-08-30
 author:
-- Charlotte Kessinger
+- Charlotte Bishop Kessinger
 ---
 
 URL: http://www.mappingpaintings.org/
