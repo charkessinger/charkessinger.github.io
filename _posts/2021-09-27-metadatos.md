@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Tarea 3. Comentario de un archivo de metadatos en Dublin Core"
+title: "Tarea 3: Comentario de un archivo de metadatos en Dublin Core"
 author:
-- Charlotte Kessinger
+- Charlotte Bishop Kessinger
 date: 2021-09-27
 ---
 
